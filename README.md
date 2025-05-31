@@ -9,7 +9,7 @@
 * [Modelagem de dados](#modelagem-de-dados)
 * [Base de dados](#base-de-dados)
 * [Funcionalidades principais](#funcionalidades-principais)
-* [Insights e Descobertas Analíticas](#insights-e-descobertas-analíticas)
+* [Insights e descobertas analíticas](#insights-e-descobertas-analíticas)
 * [Como utilizar e atualizar os dados](#como-utilizar-e-atualizar-os-dados)
 * [Licença](#licença)
 * [Acesse o projeto](#acesse-o-projeto)
@@ -89,23 +89,23 @@ O relatório foi desenvolvido para apresentar as seguintes métricas:
 - Tabela detalhada: Breakdown por categoria e tamanho
 - Gráfico de área: Evolução de pedidos e vendas mensais
 
-## Insights e Descobertas Analíticas
+## Insights e descobertas analíticas
 
-### Performance por Categoria
+### Performance por categoria
 
 - Classic: Categoria líder com 14.579 unidades vendidas (R$ 220.053,10)
 - Supreme: Segunda posição com 11.777 unidades (R$ 208.197,00)
 - Chicken: Terceira colocação com 10.815 unidades (R$ 195.919,50)
 - Veggie: Menor volume com 11.449 unidades (R$ 193.690,45)
 
-### Padrões Temporais Identificados
+### Padrões temporais identificados
 
 - Sazonalidade mensal de pedidos: Os meses de Janeiro, março, maio, julho e agosto apresentaram mais de 1800 pedidos.
 - Sazonalidade mensal de unidades vendidas: Já os meses de fevereiro, setembro, outubro, e dezembro, foram os meses em que o numero de unidades vendidas foi inferior a 4000 unidades.
 - Comportamento diário: Variações significativas durante o mês, onde a média diária de vendas variou em torno de 135 unidades, sendo que o mês de outubro apresentou a maior média diária de vendas com 140 unidades, já o mês de dezembro, apresentou a menor média diária de vendas com apenas 129 unidades.
 - Padrão horário: A concentração de vendas ocorre em horários específicos próximo das 12 horas e entre 16h e 18 horas.
 
-### Produtos de Destaque
+### Produtos de destaque
 
 - The Pepperoni Pizza: Produto com mais unidades vendidas em um único mês sendo 238 unidade vendidas no mês de maio.
 - The Classic Deluxe Pizza: Produto com mais unidades vendidas no ano sendo 2416 unidade vendidas.
