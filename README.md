@@ -84,7 +84,7 @@ O relatório foi desenvolvido para apresentar as seguintes métricas:
 ### Visualizações e insights
 
 - Cartão com KPIs: Faturamento, Total de pizzas, Total de pedidos e N° de produtos
-- Gráfico de barras: Vendas por categória (Classic, Supreme, Veggie, Chicken)
+- Gráfico de barras: Vendas por categoria (Classic, Supreme, Veggie, Chicken)
 - Gráfico de linhas: Evolução mensal do faturamento
 - Tabela detalhada: Breakdown por categoria e tamanho
 - Gráfico de área: Evolução de pedidos e vendas mensais
@@ -102,8 +102,8 @@ O relatório foi desenvolvido para apresentar as seguintes métricas:
 
 - Sazonalidade mensal de pedidos: Os meses de Janeiro, março, maio, julho e agosto apresentaram mais de 1800 pedidos.
 - Sazonalidade mensal de unidades vendidas: Já os meses de fevereiro, setembro, outubro, e dezembro, foram os meses em que o numero de unidades vendidas foi inferior a 4000 unidades.
-- Comportamento diário: Variações significativas durante o mês, onde a média diária de vendas varia em torno de 135 unidades, sendo que o mês de outubro apresentou a maior média diária de endas com 140 unidade e o mês de dezembro apresentou a menor média diária com apenas 129 unidades.
-- Padrão horário: Concentração de vendas ocorre em horários específicos próximo das 12 horas e entre 16h e 18 horas.
+- Comportamento diário: Variações significativas durante o mês, onde a média diária de vendas variou em torno de 135 unidades, sendo que o mês de outubro apresentou a maior média diária de vendas com 140 unidades, já o mês de dezembro, apresentou a menor média diária de vendas com apenas 129 unidades.
+- Padrão horário: A concentração de vendas ocorre em horários específicos próximo das 12 horas e entre 16h e 18 horas.
 
 ### Produtos de Destaque
 
